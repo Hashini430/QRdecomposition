@@ -51,9 +51,8 @@ QR_Decomposition(a)
 
 ## Output
 ```
-
-(<Screenshot from 2024-12-08 13-49-11.png>)
-![Alt text](<Screenshot from 2024-12-08 13-49-15.png>)
+![Alt text](<Screenshot from 2024-12-08 13-49-11-1.png>)
+![Alt text](<Screenshot from 2024-12-08 13-49-15-1.png>)
 ```
 
 ## Result
